@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HibSpring.iml" filepath="$PROJECT_DIR$/.idea/modules/HibSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HibSpring_main.iml" filepath="$PROJECT_DIR$/.idea/modules/HibSpring_main.iml" group="HibSpring" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HibSpring_test.iml" filepath="$PROJECT_DIR$/.idea/modules/HibSpring_test.iml" group="HibSpring" />
+    </modules>
+  </component>
+</project>
